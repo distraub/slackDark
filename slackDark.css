@@ -1888,7 +1888,7 @@ color:white;}
     .modal label {
     color: #ffffff;}
     .CodeMirror-scroll {
-    background: black;
+    background: gray;
     color: white;}
 .CodeMirror-gutter {
     white-space: normal;
