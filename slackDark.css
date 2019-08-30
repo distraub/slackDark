@@ -2724,3 +2724,8 @@ background:#222222 !important}
     color: #a0a0a0;}
 .p-classic_nav__team_header__team__name{
 letter-spacing:-0.7px !important}
+
+
+.CodeMirror-code {
+  background-color: #000;
+}
